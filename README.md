@@ -2,6 +2,8 @@
 
 [](https://github.com/)
 [](https://www.google.com/search?q=LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.22586-b31b1b.svg)](https://arxiv.org/abs/2511.22586)
+
 
 **TL;DR:** In vision-centric reasoning (e.g., mazes, puzzles), **"Short is Long"**. Our research reveals that concise, coordinate-based reasoning generalizes significantly better than verbose language or visual manipulation CoT chains.
 
@@ -143,5 +145,13 @@ We validated our "Short is Long" hypothesis on broader vision-centric tasks:
 If you find this work helpful for your research, please consider citing:
 
 ```bibtex
-
+@misc{du2025revisitingnecessitylengthychainofthought,
+      title={Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization}, 
+      author={Yifan Du and Kun Zhou and Yingqian Min and Yue Ling and Wayne Xin Zhao and Youbin Wu},
+      year={2025},
+      eprint={2511.22586},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.22586}, 
+}
 ```
